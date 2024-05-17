@@ -1,10 +1,5 @@
-# gwx-coding-test
-Coding test
+#GWX Logistics Coding Test
 
-There are three login credentials, super admin, admin and customer.
+There are there (3) types of users, the supe admin, the admin, and the customer. You can log in as a super admin with this credential- username: super_admin, password: password. Also, you can log in as an admin with - username: admin, password: password. And finally, you can log in as a customer with - username: customer, password: password.
 
-1. You can log in as super admin with username: super_admin, password: password
-2. You can also log in as an admin with username: admin, password: password
-3. Finally, you can log in as a customer with username: customer, password: password.
-
-Cheers
+Cheers.

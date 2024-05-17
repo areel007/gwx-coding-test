@@ -1,0 +1,66 @@
+[
+    {
+        "date": "5/1/2024",
+        "waybillsOutForDelivery": 87
+    },
+    {
+        "date": "5/2/2024",
+        "waybillsOutForDelivery": 88
+    },
+    {
+        "date": "5/3/2024",
+        "waybillsOutForDelivery": 76
+    },
+    {
+        "date": "5/4/2024",
+        "waybillsOutForDelivery": 84
+    },
+    {
+        "date": "5/5/2024",
+        "waybillsOutForDelivery": 35
+    },
+    {
+        "date": "5/6/2024",
+        "waybillsOutForDelivery": 33
+    },
+    {
+        "date": "5/7/2024",
+        "waybillsOutForDelivery": 44
+    },
+    {
+        "date": "5/8/2024",
+        "waybillsOutForDelivery": 27
+    },
+    {
+        "date": "5/9/2024",
+        "waybillsOutForDelivery": 40
+    },
+    {
+        "date": "5/10/2024",
+        "waybillsOutForDelivery": 35
+    },
+    {
+        "date": "5/11/2024",
+        "waybillsOutForDelivery": 80
+    },
+    {
+        "date": "5/12/2024",
+        "waybillsOutForDelivery": 94
+    },
+    {
+        "date": "5/13/2024",
+        "waybillsOutForDelivery": 72
+    },
+    {
+        "date": "5/14/2024",
+        "waybillsOutForDelivery": 53
+    },
+    {
+        "date": "5/15/2024",
+        "waybillsOutForDelivery": 39
+    },
+    {
+        "date": "5/16/2024",
+        "waybillsOutForDelivery": 48
+    }
+]
